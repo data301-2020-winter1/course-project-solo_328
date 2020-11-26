@@ -9,3 +9,6 @@ This directory currently holds:
 2. Scripts folder
 - Holds python_functions.py
 
+3. Python notebook called Milestone3
+- Updated EDA and Analysis based on comments
+
